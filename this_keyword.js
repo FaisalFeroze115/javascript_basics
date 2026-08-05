@@ -145,3 +145,4 @@ var sakib = {
 PrintName()
 
 // for arrow function this is always window object
+
