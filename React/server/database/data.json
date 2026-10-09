@@ -1,0 +1,285 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "iPhone 9",
+      "description": "An apple product of iphone",
+      "price": 555,
+      "rating": 4.5,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Samsung Galaxy S24",
+      "description": "A powerful Samsung smartphone with a high-resolution display.",
+      "price": 799,
+      "rating": 4.7,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Google Pixel 9",
+      "description": "A modern Google smartphone with an excellent camera system.",
+      "price": 699,
+      "rating": 4.6,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg"
+    },
+    {
+      "id": "4",
+      "title": "OnePlus 12",
+      "description": "A fast Android smartphone with premium performance.",
+      "price": 749,
+      "rating": 4.5,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg"
+    },
+    {
+      "id": "5",
+      "title": "MacBook Air M3",
+      "description": "A lightweight Apple laptop powered by the M3 chip.",
+      "price": 1099,
+      "rating": 4.8,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Dell XPS 15",
+      "description": "A premium laptop designed for productivity and creative work.",
+      "price": 1299,
+      "rating": 4.6,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Sony WH-1000XM5",
+      "description": "Wireless headphones with advanced noise cancellation.",
+      "price": 349,
+      "rating": 4.8,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Apple AirPods Pro",
+      "description": "Premium wireless earbuds with active noise cancellation.",
+      "price": 249,
+      "rating": 4.7,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Apple Watch Series 10",
+      "description": "A stylish smartwatch with fitness and health features.",
+      "price": 429,
+      "rating": 4.6,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Samsung Galaxy Watch 7",
+      "description": "A versatile smartwatch for fitness tracking and everyday use.",
+      "price": 299,
+      "rating": 4.5,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/10/thumbnail.jpg"
+    },
+    {
+      "id": "11",
+      "title": "iPad Pro",
+      "description": "A powerful Apple tablet designed for work and entertainment.",
+      "price": 999,
+      "rating": 4.8,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/11/thumbnail.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Samsung Galaxy Tab S9",
+      "description": "A premium Android tablet with a bright AMOLED display.",
+      "price": 799,
+      "rating": 4.6,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Nintendo Switch OLED",
+      "description": "A versatile gaming console with a vibrant OLED screen.",
+      "price": 349,
+      "rating": 4.8,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/13/thumbnail.jpg"
+    },
+    {
+      "id": "14",
+      "title": "PlayStation 5",
+      "description": "A next-generation gaming console with high-performance graphics.",
+      "price": 499,
+      "rating": 4.9,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/14/thumbnail.jpg"
+    },
+    {
+      "id": "15",
+      "title": "Xbox Series X",
+      "description": "A powerful gaming console built for high-resolution gaming.",
+      "price": 499,
+      "rating": 4.8,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg"
+    },
+    {
+      "id": "16",
+      "title": "Canon EOS R6",
+      "description": "A professional mirrorless camera for photography and video.",
+      "price": 2499,
+      "rating": 4.7,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/16/thumbnail.jpg"
+    },
+    {
+      "id": "17",
+      "title": "Sony Alpha A7 IV",
+      "description": "A full-frame mirrorless camera with excellent image quality.",
+      "price": 2199,
+      "rating": 4.8,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/17/thumbnail.jpg"
+    },
+    {
+      "id": "18",
+      "title": "JBL Flip 6",
+      "description": "A portable Bluetooth speaker with powerful sound.",
+      "price": 129,
+      "rating": 4.5,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/18/thumbnail.jpg"
+    },
+    {
+      "id": "19",
+      "title": "Bose SoundLink",
+      "description": "A compact wireless speaker designed for clear audio.",
+      "price": 179,
+      "rating": 4.4,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/19/thumbnail.jpg"
+    },
+    {
+      "id": "20",
+      "title": "Logitech MX Master 3S",
+      "description": "An ergonomic wireless mouse designed for productivity.",
+      "price": 99,
+      "rating": 4.7,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/20/thumbnail.jpg"
+    },
+    {
+      "id": "21",
+      "title": "Keychron K2",
+      "description": "A compact mechanical keyboard with wireless connectivity.",
+      "price": 89,
+      "rating": 4.6,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/21/thumbnail.jpg"
+    },
+    {
+      "id": "22",
+      "title": "Apple Magic Keyboard",
+      "description": "A slim wireless keyboard designed for Apple devices.",
+      "price": 99,
+      "rating": 4.4,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/22/thumbnail.jpg"
+    },
+    {
+      "id": "23",
+      "title": "Anker Power Bank",
+      "description": "A portable high-capacity power bank for mobile devices.",
+      "price": 59,
+      "rating": 4.6,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/23/thumbnail.jpg"
+    },
+    {
+      "id": "24",
+      "title": "Belkin USB-C Hub",
+      "description": "A multi-port USB-C hub for laptops and tablets.",
+      "price": 79,
+      "rating": 4.5,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/24/thumbnail.jpg"
+    },
+    {
+      "id": "25",
+      "title": "Amazon Echo Dot",
+      "description": "A compact smart speaker with voice assistant support.",
+      "price": 49,
+      "rating": 4.4,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/25/thumbnail.jpg"
+    },
+    {
+      "id": "26",
+      "title": "Kindle Paperwhite",
+      "description": "An e-reader with a glare-free display and long battery life.",
+      "price": 139,
+      "rating": 4.7,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/26/thumbnail.jpg"
+    },
+    {
+      "id": "27",
+      "title": "GoPro HERO 12",
+      "description": "A durable action camera designed for adventure recording.",
+      "price": 399,
+      "rating": 4.6,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/27/thumbnail.jpg"
+    },
+    {
+      "id": "28",
+      "title": "DJI Mini 4 Pro",
+      "description": "A compact drone with advanced camera and flight features.",
+      "price": 759,
+      "rating": 4.8,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/28/thumbnail.jpg"
+    },
+    {
+      "id": "29",
+      "title": "Fitbit Charge 6",
+      "description": "A fitness tracker with heart-rate and activity monitoring.",
+      "price": 159,
+      "rating": 4.4,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/29/thumbnail.jpg"
+    },
+    {
+      "id": "30",
+      "title": "Meta Quest 3",
+      "description": "A standalone virtual reality headset for immersive experiences.",
+      "price": 499,
+      "rating": 4.7,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/30/thumbnail.jpg"
+    },
+    {
+      "id": "31",
+      "title": "Microsoft Surface Laptop",
+      "description": "A sleek laptop designed for everyday productivity.",
+      "price": 999,
+      "rating": 4.5,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/31/thumbnail.jpg"
+    },
+    {
+      "title": "New pppppppppp",
+      "description": "dfvmlkedsvvvvvvvvvv",
+      "price": 200,
+      "rating": 5,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/31/thumbnail.jpg",
+      "id": "tgJcsTtdxM0"
+    },
+    {
+      "title": "Gibson Guitar",
+      "description": "asdfadsfadsfadsfads",
+      "price": 13400,
+      "rating": 5,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/32/thumbnail.jpg",
+      "id": "dgwFBGNzf5o"
+    },
+    {
+      "title": "Piano",
+      "description": "my dream",
+      "price": 20000,
+      "rating": 5,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/33/thumbnail.jpg",
+      "id": "uqPRsP_vb98"
+    },
+    {
+      "title": "T-Shirt",
+      "description": "zvcxvzcxvcxv",
+      "price": 22,
+      "rating": 5,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/37/thumbnail.jpg",
+      "id": "mq4wDv0w4QE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

@@ -5,6 +5,8 @@ const lang = ['Bnagla', 'English', 'Hindi', 'Arabic', 'Spanish', 'French'];
 // const result = lang.find((la)=>{
 //     return la == 'Hindi'
 // })
+// console.log('result', result)
+//Hindi
 
 //findIndex
 // const result = lang.findIndex((la)=>{
@@ -15,6 +17,7 @@ const lang = ['Bnagla', 'English', 'Hindi', 'Arabic', 'Spanish', 'French'];
 // const result = lang.filter((la)=>{
 //     return la == 'Hindi' || la == 'Arabic'
 // })
+// console.log('result', result)
 
 
 //slice
@@ -31,6 +34,10 @@ const lang = ['Bnagla', 'English', 'Hindi', 'Arabic', 'Spanish', 'French'];
 
 //join
 // const result = lang.join(' - ')
+
+// split(string method)
+// const result = 'Bangla, English, Hindi, Arabic, Spanish, French'.split(', ')
+// console.log('result', result)
 
 //push
 // const result = lang.push('German', 'Italian')
